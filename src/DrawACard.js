@@ -1,9 +1,9 @@
 
 
 
-// function DrawACard({deckId}) {
-
-//     return (
-//         <button onclick={}>Draw a Card!</button>
-//     )
-// }
+function DrawACard({deckId}) {
+    const []
+    return (
+        <button onclick={}>Draw a Card!</button>
+    )
+}
